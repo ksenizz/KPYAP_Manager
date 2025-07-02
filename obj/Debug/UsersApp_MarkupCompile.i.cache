@@ -1,0 +1,20 @@
+﻿UsersApp
+
+
+winexe
+C#
+.cs
+C:\Vs 2022\UsersApp\UsersApp\obj\Debug\
+UsersApp
+none
+false
+DEBUG;TRACE
+C:\Vs 2022\UsersApp\UsersApp\App.xaml
+16-1502636501
+
+39692937349
+79-1207834645
+MainPage.xaml;AuthPage.xaml;UserControl\AccountPage.xaml;UserControl\Employee\EditUser.xaml;UserControl\Employee\EmployeePage.xaml;UserControl\Project\NewProjectPage.xaml;UserControl\Project\ProjectDetailPage.xaml;UserControl\Task\EditTaskPage.xaml;UserControl\Task\NewTaskPage.xaml;UserControl\Employee\NewEmployee.xaml;UserControl\Project\ProjectPage.xaml;UserControl\Project\ProjectPanel.xaml;UserControl\StaticPage.xaml;UserControl\Task\TaskDetailPage.xaml;UserControl\Task\TaskPage.xaml;UserControl\Task\TaskPanel.xaml;
+
+True
+

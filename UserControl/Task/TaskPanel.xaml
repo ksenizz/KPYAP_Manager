@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="UsersApp.UserControl.TaskPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UsersApp.UserControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="615" d:DesignWidth="800" Background="White">
+    <Grid>
+        <TextBlock Grid.Row="0" FontSize="20" FontWeight="Bold" Margin="20,23,18,553">
+            Разработка дизайн-концепции
+        </TextBlock>
+        <TextBlock Margin="20,67,18,517"><Run Language="ru-ru" Text="Создание основной концепции сайта"/></TextBlock>
+        <TextBlock Margin="20,103,647,489" FontWeight="Bold" RenderTransformOrigin="0.299,-1.096"><Run Text="Сроки "/><Run Language="ru-ru" Text="выполнения"/></TextBlock>
+        <TextBlock Text="Начало" Height="21" Margin="20,143,736,451"/>
+        <TextBlock Text="15.05.25" Height="15" Margin="76,143,674,457"/>
+        <TextBlock Text="Дедлайн" Margin="155,142,595,453" RenderTransformOrigin="0.226,-0.895"/>
+        <TextBlock Text="15.05.25" Height="15" Margin="215,140,535,460"/>
+
+    </Grid>
+</UserControl>
